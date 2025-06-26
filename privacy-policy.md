@@ -12,6 +12,7 @@ Subscription and purchase data (if you upgrade to premium)
 Usage Data:
 Device type, operating system, app usage statistics, crash logs
 Location Data:
+If you sign in with Google or Facebook, we may use your display name and profile photo to pre-fill your FurEver profile. You may change these at any time in the app.
 (Optional) If you enable location tagging for memories
 
 Analytics and Advertising Data:
@@ -41,20 +42,21 @@ We retain your information for as long as your account is active or as needed to
 
 5. Data Security
 We use reasonable administrative, technical, and physical security measures to protect your data. No method is 100% secure, but we strive to protect your information.
+For more about how Firebase manages your data, see Firebase Privacy and Security.
 
-6. Your Rights
+7. Your Rights
 Depending on your location, you may have rights under GDPR/CCPA to:
 Access, correct, or delete your data
 Object to processing or request restriction
 Withdraw consent at any time
 Contact us to exercise these rights.
 
-7. Children’s Privacy
+8. Children’s Privacy
 FurEver is not intended for children under 13. If we learn we have collected data from a child under 13, we will delete it promptly.
 
-8. Changes to This Policy
+9. Changes to This Policy
 We may update this policy from time to time. Updates will be posted at this URL.
 
-9. Contact Us
+10. Contact Us
 If you have any questions, please contact us:
 Email: tobeprovidedwhenlaunching@placeholder.com
